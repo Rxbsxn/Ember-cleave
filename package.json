@@ -26,8 +26,8 @@
   },
   "dependencies": {
     "cleave.js": "^1.4.7",
-    "ember-cli-babel": "^7.1.2",
-    "ember-auto-import": "^2.3.0"
+    "ember-cli-babel": "^8.0.0",
+    "ember-auto-import": "^2.4.0"
   },
   "devDependencies": {
     "@ember/optional-features": "^0.6.3",
